@@ -55,6 +55,7 @@ h1 span {
 label,
 input[type="radio"] {
   font-size: 20px;
+  margin-right: 12px;
 }
 
 .question-lock input[type="radio"] {
